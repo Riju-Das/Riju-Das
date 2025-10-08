@@ -8,16 +8,8 @@
   </kbd>
 </p>
 
-<p align="center">
-  <!-- Animated tech badges for flair -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<br>Passionate about web development and building projects that solve real-world problems.<br>Always exploring new technologies and open to collaboration.<br><br>🔭 I’m currently working on personal projects in web development and a Smart Finance Tracker app<br>👯 I’m looking to collaborate on open-source projects using React, Node.js, and TypeScript<br>🌱 I’m currently learning Next.js, DevOps basics, and advanced TypeScript patterns
+<br>
+Passionate about web development and building projects that solve real-world problems.<br>Always exploring new technologies and open to collaboration.<br><br>🔭 I’m currently working on personal projects in web development and a Smart Finance Tracker app<br>👯 I’m looking to collaborate on open-source projects using React, Node.js, and TypeScript<br>🌱 I’m currently learning Next.js, DevOps basics, and advanced TypeScript patterns
 
 
 ## 🌐 Socials:
