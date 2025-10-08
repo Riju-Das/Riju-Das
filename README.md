@@ -1,14 +1,18 @@
 <p align="center">
+  <!-- Cool Gradient Border Box -->
   <kbd>
     <p align="center">
+      <!-- Animated Typing SVG with tech emojis -->
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&color=00ffcc&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Riju+Das;💻+Full-Stack+Developer;🚀+Building+Awesome+Projects+with+React,+Node.js,+TypeScript;⚡+Always+Learning+New+Tech" alt="Riju Das Typing Intro"/>
     </p>
   </kbd>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="250" alt="tech animation"/>
+  <!-- Working techy GIF -->
+  <img src="https://media.giphy.com/media/3o7aD4lBvXf4G4z3z2/giphy.gif" width="250" alt="tech animation"/>
 </p>
+
 <br>Passionate about web development and building projects that solve real-world problems.<br>Always exploring new technologies and open to collaboration.<br><br>🔭 I’m currently working on personal projects in web development and a Smart Finance Tracker app<br>👯 I’m looking to collaborate on open-source projects using React, Node.js, and TypeScript<br>🌱 I’m currently learning Next.js, DevOps basics, and advanced TypeScript patterns
 
 
