@@ -1,11 +1,11 @@
 <br><br>
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&color=00ffcc&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Riju+Das;💻+Full-Stack+Developer;🚀+Building+Awesome+Projects)<br/>
 <br><br>
-## 👋 About Me:
+# 👋 About Me:
 I'm Passionate about web development and building projects that solve real-world problems.<br>Always exploring new technologies and open to collaboration.<br><br>🔭 I’m currently working on personal projects in web development and a Smart Finance Tracker app<br>👯 I’m looking to collaborate on open-source projects using React, Node.js, and TypeScript<br>🌱 I’m currently learning Next.js, DevOps basics, and advanced TypeScript patterns
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riju-das-808bb4286) 
 
 # 💻 Tech Stack:
