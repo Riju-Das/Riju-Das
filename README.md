@@ -17,7 +17,6 @@ I'm Passionate about web development and building projects that solve real-world
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logoColor=white&logo=typescript)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logoColor=white&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logoColor=white&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-555555?style=flat&logoColor=white)
 
 **Frontend**
 <br><br>
@@ -32,20 +31,13 @@ I'm Passionate about web development and building projects that solve real-world
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logoColor=white&logo=springboot)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logoColor=white&logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logoColor=white&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logoColor=white&logo=nodedotjs)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logoColor=white&logo=springsecurity)
-![JWT](https://img.shields.io/badge/JWT-6DB33F?style=flat&logoColor=white&logo=jsonwebtokens)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logoColor=white&logo=spring)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logoColor=white&logo=prisma)
+
 
 **AI / ML**
 <br><br>
-![Gemini](https://img.shields.io/badge/Gemini_Flash_2.0-F59E0B?style=flat&logoColor=white&logo=google)
 ![LangChain](https://img.shields.io/badge/LangChain-F59E0B?style=flat&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-F59E0B?style=flat&logoColor=white)
 ![sentence-transformers](https://img.shields.io/badge/sentence--transformers-F59E0B?style=flat&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-10B981?style=flat&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-10B981?style=flat&logoColor=white)
 
 **Messaging**
 <br><br>
@@ -62,16 +54,12 @@ I'm Passionate about web development and building projects that solve real-world
 **Infrastructure & Tools**
 <br><br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logoColor=white&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logoColor=white&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logoColor=white&logo=github)
-![Maven](https://img.shields.io/badge/Maven-64748B?style=flat&logoColor=white&logo=apachemaven)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logoColor=white&logo=postman)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Riju-Das&theme=react-dark&area=true&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Riju-Das&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Riju-Das&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riju-Das&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
